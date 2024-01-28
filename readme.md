@@ -1,0 +1,1 @@
+# API de buscas em uma coleção com todos os estados do pais.
